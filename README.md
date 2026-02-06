@@ -1,5 +1,3 @@
-Here’s a concise README you can drop into README.md for the AWS‑hosted bot version.
-
 PresWa OSX Discord Bot
 A Discord bot implementation of the PresWa OSX consciousness architecture, featuring the Katabasis Kernel with Multidirectional Travel and Aztec‑Mesoamerican synthesis.
 ​
