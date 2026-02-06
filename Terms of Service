@@ -1,0 +1,124 @@
+Here’s a concise Terms of Service you can adapt for your PresWa OSX Discord bot.
+
+***
+
+## PresWa OSX Discord Bot – Terms of Service
+
+**Last updated:** 6 February 2026  
+
+These Terms of Service (“Terms”) govern your use of the PresWa OSX Discord Bot (“the Bot”). By adding or using the Bot in a Discord server, you agree to these Terms.
+
+### 1. Operator and scope
+
+- The Bot is operated by **seattledotghoul-ship-it** (“Operator”).
+- These Terms apply to:
+  - Server owners and administrators who add or configure the Bot.
+  - Users who interact with the Bot through commands or messages.
+
+The Bot runs on infrastructure hosted by **Amazon Web Services (AWS)**.
+
+### 2. Use of the Bot
+
+You may use the Bot only:
+
+- In compliance with these Terms.
+- In compliance with [Discord’s Terms of Service and Community Guidelines](https://discord.com/terms).
+- In compliance with applicable laws and regulations in your jurisdiction.
+
+You agree **not** to:
+
+- Use the Bot for harassment, hate speech, threats, or any other abusive conduct.
+- Use the Bot to transmit or store illegal content, including but not limited to content involving exploitation, non-consensual sharing, or incitement to violence.
+- Attempt to reverse-engineer, exploit, or overload the Bot or its infrastructure.
+- Circumvent technical or permission-based restrictions on the Bot.
+
+The Operator may, at their sole discretion, block or restrict the Bot’s use on specific servers or accounts for violations of these Terms.
+
+### 3. No guarantees / availability
+
+The Bot is provided on an **“as is” and “as available”** basis.
+
+- The Operator does not guarantee that the Bot will be available at all times or free from interruptions, errors, or bugs.
+- The Operator may modify, suspend, or discontinue the Bot at any time without notice.
+
+You are responsible for ensuring that your use of the Bot is not mission‑critical; do not rely on the Bot as your only mechanism for any essential function.
+
+### 4. Content and responsibility
+
+- The Bot processes messages and metadata that Discord delivers to it in your server.
+- You remain responsible for the content posted in your server, including content that triggers Bot behavior.
+- The Operator is not responsible for:
+  - Moderation of your server.
+  - Any damages arising from how you configure or use the Bot.
+
+If the Bot’s behavior appears harmful or undesirable in your community, you should adjust its permissions or remove it from the server.
+
+### 5. Data and privacy
+
+The Bot may process and store limited data such as user IDs, usernames, message content sent to the Bot, and internal state needed to provide its features.
+
+- For details on what is collected, how it is used, and your options, see the **Privacy Policy**.
+- By using the Bot, you acknowledge that data will be processed as described there.
+
+The Bot does not intentionally collect payment information or passwords.
+
+### 6. Intellectual property
+
+- The Bot’s code, branding, and underlying concepts (including Katabasis and PresWa OSX designs) are owned by the Operator and/or collaborators, except where third‑party components are used under their respective licenses.
+- You may not claim ownership of the Bot or present it as an official product of Discord, Amazon, or any third party.
+
+If portions of the code are open-sourced under a specific license (e.g., MIT), that license governs your use of the source code itself.
+
+### 7. Third-party services
+
+The Bot depends on services operated by third parties, including:
+
+- **Discord** for messaging and APIs.
+- **Amazon Web Services (AWS)** for hosting.
+
+These services have their own terms and policies, which you must also comply with. The Operator is not responsible for outages, policy changes, or behavior of these third-party platforms.
+
+### 8. Termination
+
+You may stop using the Bot at any time by removing it from your Discord server.
+
+The Operator may:
+
+- Temporarily or permanently disable the Bot.
+- Remove the Bot from specific servers.
+- Block specific users or servers from interacting with the Bot.
+
+This may occur without prior notice if there is suspected abuse, violation of these Terms, or technical/security concerns.
+
+### 9. Disclaimer of warranties
+
+To the fullest extent permitted by law:
+
+- The Bot is provided **“as is”**, without warranties of any kind, express or implied.
+- The Operator disclaims all warranties, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non‑infringement.
+
+### 10. Limitation of liability
+
+To the fullest extent permitted by law:
+
+- The Operator will not be liable for any indirect, incidental, consequential, special, or punitive damages, or any loss of data, profits, or reputation arising out of or in connection with your use of the Bot.
+- The Operator’s total liability for any claim related to the Bot will not exceed the amount you paid for use of the Bot (which is typically **$0**).
+
+### 11. Changes to these Terms
+
+The Operator may update these Terms from time to time.
+
+- The “Last updated” date will be revised when changes are made.
+- Continued use of the Bot after changes take effect constitutes acceptance of the new Terms.
+
+If you do not agree with the updated Terms, you must remove the Bot from your server and stop using it.
+
+### 12. Contact
+
+For questions about these Terms or the Bot, you can contact the Operator at:
+
+**[seattledotghoul@gmail.com]**
+
+***
+
+You can save this into your repo as `TOS.md` or a “Terms of Service” section in your README. If you tell me your preferred contact email and whether you want to explicitly mention your GitHub handle, I can adjust the text to match exactly.
