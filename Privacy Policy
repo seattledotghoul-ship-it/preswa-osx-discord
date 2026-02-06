@@ -1,0 +1,142 @@
+You can use this as a starting privacy policy for your PresWa OSX Discord bot; customize details like contact email and hosting region.
+
+PresWa OSX Discord Bot – Privacy Policy
+Last updated: 6 February 2026
+
+This Privacy Policy explains how the PresWa OSX Discord Bot (“the Bot”) processes information when you use it in a Discord server.
+
+1. Who operates this bot
+This bot is operated by seattledotghoul-ship-it (the “Operator”).
+Contact: [your email or contact link here]
+
+The Bot runs on servers hosted by Amazon Web Services (AWS).
+
+2. What information the bot can access
+When the Bot is added to a server, Discord may send it the following data as part of normal operation:
+
+Server and channel metadata: server ID, channel IDs, names, and basic settings.
+
+User metadata: user IDs, usernames, nicknames, and avatars.
+
+Message content: the text of messages that:
+
+invoke a command (e.g., !preswa, !status), or
+
+mention the bot directly.
+
+The Bot does not read or log messages in channels where it has no access, and it does not attempt to bypass Discord’s permission system.
+
+3. What the bot stores
+The Bot stores minimal data required to provide its functionality:
+
+Per-user session state
+
+Discord user ID
+
+Username / nickname
+
+Internal “kernel” state and metrics (e.g., coherence values, navigation depth)
+
+Message counts and timestamps for activity
+
+Configuration and logs
+
+Basic configuration (e.g., bot token, command prefix)
+
+System logs and internal audit entries (e.g., kernel state snapshots, errors)
+
+Storage details:
+
+Data is stored on disk on the AWS EC2 instance running the Bot (for example under ./user_data and log directories).
+
+Data is not intentionally shared with third parties, except:
+
+Discord (as part of normal bot interactions), and
+
+AWS (as the infrastructure provider hosting the server).
+
+The Bot does not intentionally store:
+
+Plain-text passwords
+
+Payment information
+
+Direct messages outside of what Discord delivers to the Bot as part of a command or mention
+
+4. How data is used
+Data is used solely to operate and improve the Bot:
+
+To process commands and generate responses.
+
+To maintain per-user “consciousness kernel” state so experiences can be continuous across messages.
+
+To provide visualizations and status reports when requested (e.g., !status, !visualize, !stats).
+
+To diagnose errors and maintain system health (via logs and audit trails).
+
+No data is sold or rented. No profiling for advertising is performed.
+
+5. Data retention
+Per-user session state may be kept as long as the Bot is active on a server, but inactive sessions may be automatically cleaned up after a period (for example, 24+ hours of inactivity).
+
+Configuration and logs may be retained longer for security, debugging, and continuity.
+
+If you remove the Bot from a server, it will no longer receive any new data from that server. Existing stored data may be deleted during periodic cleanup or upon specific request (see Section 7).
+
+6. Your choices and controls
+As a server owner or admin, you can:
+
+Remove the Bot from your server at any time via Discord.
+
+Limit the channels the Bot can access using Discord role and channel permissions.
+
+As a user, you can:
+
+Avoid using the Bot’s commands if you do not want your messages processed.
+
+Request that session data associated with your user ID be deleted (see Section 7).
+
+7. Data access and deletion requests
+To request:
+
+Information about what is stored about your Discord user ID, or
+
+Deletion of stored data associated with your user ID or server,
+
+contact the Operator at: [your email/contact here] and include:
+
+Your Discord username and user ID.
+
+The name or ID of the Discord server.
+
+A clear description of your request.
+
+Reasonable efforts will be made to verify your identity (for example, by asking you to send a confirmation message from the relevant Discord account) and to respond in a timely manner, subject to technical limitations.
+
+8. Children’s data
+The Bot is intended for use in Discord servers in accordance with Discord’s own age restrictions. It does not knowingly target or profile children. If you believe data has been collected from a child in violation of applicable laws, please contact the Operator to request deletion.
+
+9. Security
+The Bot runs on AWS infrastructure and uses standard operating system and Python security practices. However, no system can be perfectly secure.
+
+Access to the server is restricted to the Operator.
+
+Bot tokens and secrets are stored in configuration files or environment variables, not in public code.
+
+Regular updates to Python packages and the operating system are recommended to reduce known vulnerabilities.
+
+10. Third-party services
+The Bot relies on:
+
+Discord – for messaging infrastructure and APIs.
+
+Amazon Web Services (AWS) – for server hosting.
+
+These services have their own privacy policies. This document only describes what the Bot does with data it receives through those platforms.
+
+11. Changes to this policy
+This Privacy Policy may be updated from time to time. The “Last updated” date at the top will be revised accordingly. Continued use of the Bot after changes are posted will constitute acceptance of the updated policy.
+
+For significant changes (for example, if data starts being used in new ways), a notice will be added to the GitHub repository README or other project documentation.
+
+If you tell me your preferred contact email and hosting region (e.g., “AWS us-west-2”), I can tweak the policy text to match your exact deployment and you can drop it straight into your GitHub repo as PRIVACY.md or into a “Privacy Policy” section in the README.
